@@ -1,0 +1,31 @@
+.viewMoreBtn {
+    background-color: var(--primary-button);
+    border: none;
+    width: 100px;
+    height: 35px;
+    border-radius:50px;
+    color: var(--primary-text-white);
+}
+
+.viewMoreBtn:hover {
+    background-color: #1bac74;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+}
+
+
+tbody {
+    text-align: center;
+}
+
+tr {
+    height: 40px;
+    
+}
+
+td {
+    border-bottom: 1px solid #1bac74;
+}

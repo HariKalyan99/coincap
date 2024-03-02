@@ -1,0 +1,14 @@
+:root {
+  --primary-color: #eceff1;
+  --navbar-color: #fff;
+  --primary-text-white: #fff; 
+  --primary-text-black: #111; 
+  --primary-gradient-hero: rgb(103,121,237);
+  --primary-linear-hero: linear-gradient(90deg, rgba(103,121,237,1) 13%, rgba(69,183,252,1) 70%);
+  --primary-button: #18c683;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
